@@ -45,7 +45,7 @@ A complete, ready-to-use LaTeX template for B.Tech Major Project-II report submi
 ## 🚀 Quick Start
 
 ### Overleaf
-1. Download the ZIP from [Releases](../../releases)
+1. Download the ZIP
 2. Go to [Overleaf](https://overleaf.com) → **New Project** → **Upload Project**
 3. Upload the ZIP
 4. Set compiler to **pdfLaTeX**
